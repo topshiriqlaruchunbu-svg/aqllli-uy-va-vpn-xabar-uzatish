@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SecureLink & SmartHome AI",
+  "description": "VPN simulyatsiyasi, matnlarni turli xil kodlash usullari bilan yuborish va aqlli uy boshqaruv tizimi. Gemini AI yordamida aqlli tavsiyalar beradi.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
